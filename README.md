@@ -14,7 +14,8 @@ On non-rooted devices, Shizuku needs to be manually restarted with adb every tim
 
 ### Sui
 
-Sui is a [Magisk](https://github.com/topjohnwu/Magisk) module. Magisk requires an unlocked bootloader.
+Sui is a [Magisk](https://github.com/topjohnwu/
+Magisk) module. Magisk requires an unlocked bootloader.
 
 No additional setup is required except for the installation. You can guide the rooted users (searching `su` in `PATH` is enough) to download Sui from Magisk or https://github.com/RikkaApps/Sui.
 
